@@ -4,17 +4,9 @@
 
 This project is a comprehensive analysis of bike and bike by-products sales across the US and worldwide. The report is created using **Power BI**, an industry-leading business intelligence tool that allows users to visualize data, build dashboards, and generate insights from large datasets with ease.
 
-## About Power BI
-
-[Power BI](https://powerbi.microsoft.com/) is a business analytics service by Microsoft that enables users to:
-- Connect to hundreds of data sources.
-- Clean and prepare data for analysis.
-- Create visualizations and reports that provide insights.
-- Share insights across an organization or embed them in an app or website.
-
-With its interactive dashboards and rich data connectivity options, Power BI is widely used for data analysis, reporting, and business decision-making.
 
 ## Project Scope
+![Bike Sales Dashboard](./images/dashboard1_overview.png)
 
 The objective of this project is to analyze the sales of bikes and related products, tracking sales performance over time and across different regions. The analysis aims to answer key questions such as:
 - What are the top-performing products in the bike category?
@@ -48,7 +40,6 @@ The dataset used in this analysis contains:
 3. **Global vs US Comparison**: Visual comparisons between the US and global sales performance to highlight differences in market trends.
 4. **Forecasting**: The report includes sales forecasting based on historical data trends, providing insights into future performance.
 
-![Bike Sales Dashboard](./images/dashboard1_overview.png)
 
 ## Installation & Usage
 
